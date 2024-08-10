@@ -1,0 +1,4 @@
+1) graphical UI
+2) play again button
+3) counter for both player win count
+4) at end add which player choosed which move
